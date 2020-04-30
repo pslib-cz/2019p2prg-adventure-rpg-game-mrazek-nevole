@@ -10,6 +10,8 @@ namespace WebApplication1.Pages
 {
     public class IndexModel : PageModel
     {
+        public double B { get; set; } = 5;
+
         private readonly ILogger<IndexModel> _logger;
 
         public IndexModel(ILogger<IndexModel> logger)
