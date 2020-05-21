@@ -1,0 +1,165 @@
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index1.cshtml.g.cs
+C:\Users\Acer\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Game.cshtml.g.cs
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MessagePack.dll
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MessagePack.Annotations.dll
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MessagePack.dll
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MessagePack.Annotations.dll
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Utf8Json.dll
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Game.cshtml.g.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Index.cshtml.g.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Downloads\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\StartUp.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MessagePack.dll
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\MessagePack.Annotations.dll
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Utf8Json.dll
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Game.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\StartUp.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Acer\Desktop\RPG (1)\RPG\RPG\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
